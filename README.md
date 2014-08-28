@@ -17,6 +17,6 @@ Maybe you don't want to install the mod to the debian standard path. In that cas
 Confession-ish like thingy
 --------------------------
 
-It is possible that maybe somebody who looks a little like me took these quotes from here. Tanks a lot … he says.
+It is possible that maybe somebody who looks a little like me took these quotes from [here](http://home.roadrunner.com/~computertaijutsu/buffy). Tanks a lot … he says.
 
 I think I will extend this quotes with quotes from the Buffy comic books, some day.
